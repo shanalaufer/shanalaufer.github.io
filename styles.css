@@ -1,0 +1,90 @@
+h1
+{font-family: arial, sans-serif;
+font-size:250%;
+color:#ffffff;
+text-transform: uppercase;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+	letter-spacing: 1px;
+	line-height: 50px;}
+
+body
+{color:#ffffff;
+line-height: 50px;
+text-align: center;}
+h2.one
+{font-family: arial;
+font-weight: bold;
+text-transform: uppercase;
+text-decoration: underline;
+font-size: 200%;
+line-height: 20px;
+text-align:left;
+}
+
+p {
+	line-height: 50px;
+
+}
+ul 
+{
+	line-height: 40px;
+}
+body{
+	background-image: url("images/hex-677521_960_720.jpg");
+}
+img {
+	
+	margin: 2%;
+
+}
+article{
+	margin-top: 8%;
+	text-align: left;
+	margin-left: 30%;
+	border-style:solid;
+	margin-right: 32%;
+}
+section {
+	font-size: 150%;
+	text-align: center;
+}
+aside {
+padding: 1%;
+font-size: 150%;
+text-align: center;
+margin: 1%;
+text-decoration: underline;
+
+ }
+
+a {
+	color: #ffffff;
+	text-align: center;
+	margin: 13%;
+	}
+
+a:hover {
+	color:#ffff00;
+}
+a:visited{
+	color:#00ff00;
+}
+
+ol {line-height: 30px;}
+div{font-size: 300%;
+	text-align: center;
+	margin-left: 28%;
+	margin-right: 28%;
+	border-style: solid;
+	border-color: #0099ff;
+	margin-top: 10%;
+}
+
+#google{
+	position: absolute; 
+}
+
+
+
